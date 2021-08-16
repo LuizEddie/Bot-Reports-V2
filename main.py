@@ -53,7 +53,6 @@ class MainClass:
             count = count + 1
 
             print("Lendo... " + str((count / len(apps)) * 100) + "%")
-            os.system("cls||clear")
 
         self.write_log_file()
 
