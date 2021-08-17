@@ -8,7 +8,7 @@ import urllib
 class MainClass:
 
     appData = []
-    log_path = "log/"
+    log_path = ""
     playstore_path = "https://play.google.com/store/apps/details?id="
 
     def __init__(self):
@@ -19,13 +19,13 @@ class MainClass:
         data = json.load(json_path)
 
         print("Dados Carregados")
-        links = data['links']
-
-        self.get_app_data(links)
+        #links = data['links']
+        return data['links']
+        #self.get_app_data(links)
 
     def get_app_data(self, apps):
-
         count = 0
+        self.appData = []
         for appl in apps:
             try:
                 result = app(
@@ -76,14 +76,14 @@ class MainClass:
         else:
             return "China"
 
-    def create_log_file(self):
-        self.log_path += str(date.today()) + " " + str(time.time()) + ".txt"
+    def create_log_file(self, app_name):
+        self.log_path = "log/" + str(date.today()) + " " + str(time.time()) + " " + app_name +".txt"
 
         file = open(self.log_path, "x", encoding="utf8")
 
         file.close()
 
-        self.read_json_data()
+        #self.read_json_data()
 
     def write_log_file(self):
         file = open(self.log_path, "w", encoding="utf8")
@@ -114,6 +114,7 @@ class MainClass:
         self.read_log_file()
 
     def read_log_file(self):
+
         file = open(self.log_path, "r", encoding="utf8")
         print(file.read())
         file.close()
@@ -141,11 +142,63 @@ class MainClass:
             except Exception as e:
                 return "Offline"
 
+    def menu(self):
+
+        option = ""
+
+        while option != "3":
+            print("Bem-Vindo! Escolha a opção desejada:\n")
+            option = input("1 - Relatório todos os apps\n"
+                           "2 - Relatório app específico\n"
+                           "3 - Sair\n"
+                           "Digite a opção: ")
+
+
+
+            if option == "1":
+                self.create_log_file("all")
+                self.get_app_data(self.read_json_data())
+                os.system("pause")
+            elif option == "2":
+                #print("Em desenvolvimento")
+                self.show_app_menu()
+
+            elif option == "3":
+                print("Saindo")
+
+            else:
+                print("Erro, escolha a opção correta")
+
+    def show_app_menu(self):
+        apps = self.read_json_data()
+
+        option = ""
+        while option != "0":
+            for count in range(len(apps)):
+                print(str(count + 1) + " - " + apps[count]['name'])
+
+            print("0 - Voltar")
+
+            option = input("Digite o número o app que você deseja obter o relatório: ")
+
+            if option == "0":
+
+                print("Voltando")
+            elif int(option) > len(apps) or int(option) < 0:
+
+                print("Erro, escolha a opção correta")
+            else:
+                app = [apps[(int(option) - 1)]]
+                self.create_log_file(app[0]['name'])
+                self.get_app_data(app)
+                os.system("pause")
+
 try:
     mainClass = MainClass()
 
-    mainClass.create_log_file()
+    '''mainClass.create_log_file()'''
     '''mainClass.read_json_data()'''
+    mainClass.menu()
 
     os.system("pause")
 

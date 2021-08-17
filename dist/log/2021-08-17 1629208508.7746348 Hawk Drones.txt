@@ -1,0 +1,56 @@
+2021-08-171629208509.7299464
+
+Nome: Hawk Drones
+Nota: 2.1470587
+Total de Avaliações: 34
+Total de Comentários: 30
+Desenvolvedor: Multilaser Mobile
+Versão Atual: 1.1.2
+Lançamento: 7 de mar. de 2019
+Data Ultima Atualização: February 26, 2020
+Hospedagem: Brasil
+Downloads Totais: 1.000+
+Comentários: 
+
+Comentário: Ótimo
+Nota: 5
+Data: 2021-08-06 16:34:43
+--------------------------------
+Comentário: As vezes o drone caiu
+Nota: 4
+Data: 2021-06-11 14:44:26
+--------------------------------
+Comentário: Não conecta com o drone eagle, só aparece esse app para o mesmo.
+Nota: 1
+Data: 2021-06-08 07:52:29
+--------------------------------
+Comentário: Pessoal, cadê o aplicativo do Eagle? Só funciona com este?
+Nota: 1
+Data: 2021-05-29 19:47:16
+--------------------------------
+Comentário: Precisa ser atualizado este app pelo desenvolvedor, está travando 1 vez por segundo a 0 metros de distância e fica travado por 2 segundos
+Nota: 1
+Data: 2021-05-08 10:06:48
+--------------------------------
+Comentário: Interessante
+Nota: 3
+Data: 2021-05-07 11:34:16
+--------------------------------
+Comentário: U drone é privem
+Nota: 1
+Data: 2021-03-18 13:38:37
+--------------------------------
+Comentário: O GPS não conecta, 5 dias até agora não consegui ligar ele.
+Nota: 1
+Data: 2021-01-15 21:56:10
+--------------------------------
+Comentário: Poderia melhorar na questão do GPS no reconhecimento,melhorar na parte de controle dizendo que está conectado ou vinculado ao drone, lembrando que o drone e o controle devem ser ligados simultaneamente para que haja conexão com o controle, processo complicado na decolagem, interface difícil de mexer, espero atualização do aplicativo facilitando esses recusos, e configurar para português a decolagem.
+Nota: 1
+Data: 2020-11-18 13:41:56
+--------------------------------
+Comentário: Razoável
+Nota: 2
+Data: 2020-06-14 11:11:50
+--------------------------------
+
+END
