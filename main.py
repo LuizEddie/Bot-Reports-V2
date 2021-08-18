@@ -19,9 +19,7 @@ class MainClass:
         data = json.load(json_path)
 
         print("Dados Carregados")
-        #links = data['links']
         return data['links']
-        #self.get_app_data(links)
 
     def get_app_data(self, apps):
         count = 0
@@ -114,7 +112,7 @@ class MainClass:
         self.read_log_file()
 
     def read_log_file(self):
-
+        os.system("cls||clear")
         file = open(self.log_path, "r", encoding="utf8")
         print(file.read())
         file.close()
@@ -147,6 +145,7 @@ class MainClass:
         option = ""
 
         while option != "3":
+            os.system("cls||clear")
             print("Bem-Vindo! Escolha a opção desejada:\n")
             option = input("1 - Relatório todos os apps\n"
                            "2 - Relatório app específico\n"
@@ -156,24 +155,27 @@ class MainClass:
 
 
             if option == "1":
+                os.system("cls||clear")
                 self.create_log_file("all")
                 self.get_app_data(self.read_json_data())
-                os.system("pause")
             elif option == "2":
-                #print("Em desenvolvimento")
+                os.system("cls||clear")
                 self.show_app_menu()
-
             elif option == "3":
+                os.system("cls||clear")
                 print("Saindo")
-
             else:
+                os.system("cls||clear")
                 print("Erro, escolha a opção correta")
+
+            os.system("pause")
 
     def show_app_menu(self):
         apps = self.read_json_data()
 
         option = ""
         while option != "0":
+            os.system("cls||clear")
             for count in range(len(apps)):
                 print(str(count + 1) + " - " + apps[count]['name'])
 
@@ -182,25 +184,24 @@ class MainClass:
             option = input("Digite o número o app que você deseja obter o relatório: ")
 
             if option == "0":
-
+                os.system("cls||clear")
                 print("Voltando")
             elif int(option) > len(apps) or int(option) < 0:
-
+                os.system("cls||clear")
                 print("Erro, escolha a opção correta")
+                os.system("pause")
             else:
+                os.system("cls||clear")
                 app = [apps[(int(option) - 1)]]
                 self.create_log_file(app[0]['name'])
                 self.get_app_data(app)
                 os.system("pause")
-
 try:
     mainClass = MainClass()
 
     '''mainClass.create_log_file()'''
     '''mainClass.read_json_data()'''
     mainClass.menu()
-
-    os.system("pause")
 
 except Exception as e:
     print("Erro " + str(e))
