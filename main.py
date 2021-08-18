@@ -186,7 +186,7 @@ class MainClass:
             if option == "0":
                 os.system("cls||clear")
                 print("Voltando")
-            elif int(option) > len(apps) or int(option) < 0:
+            elif not option.isnumeric() or int(option) > len(apps) or int(option) < 0:
                 os.system("cls||clear")
                 print("Erro, escolha a opção correta")
                 os.system("pause")
