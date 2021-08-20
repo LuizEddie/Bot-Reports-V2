@@ -3,7 +3,7 @@ import json
 from datetime import date
 import time
 from google_play_scraper import app, reviews, Sort
-import urllib
+from urllib import request
 
 class MainClass:
 
@@ -21,7 +21,7 @@ class MainClass:
         print("Dados Carregados")
         return data['links']
 
-    def get_app_data(self, apps):
+    def set_app_data(self, apps):
         count = 0
         self.appData = []
         for appl in apps:
@@ -52,12 +52,9 @@ class MainClass:
 
             print("Lendo... " + str((count / len(apps)) * 100) + "%")
 
-        self.write_log_file()
-
-
     def get_last_update_app(self, url):
         try:
-            html = str(urllib.request.urlopen(self.playstore_path + url['url']).read())
+            html = str(request.urlopen(self.playstore_path + url['url']).read())
             tmpline = '<div class="BgcNfc">Updated</div><span class="htlgb"><div class="IQ1z0d"><span class="htlgb">'
             stringstart = html.find(tmpline)
             stringend = stringstart + len(tmpline)
@@ -66,7 +63,6 @@ class MainClass:
             return date
         except Exception as e:
             return "Offline"
-
 
     def get_host(self, dev):
         if dev == "Multilaser Mobile" or dev == "Giga Security":
@@ -109,7 +105,7 @@ class MainClass:
         file.write("END")
         file.close()
 
-        self.read_log_file()
+        #self.read_log_file()
 
     def read_log_file(self):
         os.system("cls||clear")
@@ -156,14 +152,16 @@ class MainClass:
 
             if option == "1":
                 os.system("cls||clear")
-                self.create_log_file("all")
-                self.get_app_data(self.read_json_data())
+                #self.create_log_file("all")
+                self.set_app_data(self.read_json_data())
+                self.get_data()
+                self.save_data_menu("All")
             elif option == "2":
                 os.system("cls||clear")
                 self.show_app_menu()
             elif option == "3":
                 os.system("cls||clear")
-                print("Saindo")
+                print("Saindo...")
             else:
                 os.system("cls||clear")
                 print("Erro, escolha a opção correta")
@@ -193,9 +191,55 @@ class MainClass:
             else:
                 os.system("cls||clear")
                 app = [apps[(int(option) - 1)]]
-                self.create_log_file(app[0]['name'])
-                self.get_app_data(app)
+                self.set_app_data(app)
+                self.get_data()
+                self.save_data_menu(app[0]['name'])
+                #self.create_log_file(app[0]['name'])
+                #self.set_app_data(app)
                 os.system("pause")
+
+    def save_data_menu(self, app_name):
+        option = ""
+        while(option != "1" and option != "2"):
+            option = input("Você deseja salvar o log do relatório?\n"
+                           "Digite o número correspondente a sua opção:\n"
+                           "1 - Sim\n"
+                           "2 - Não\n")
+
+            if option == "1":
+                self.create_log_file(app_name)
+                self.write_log_file()
+                print("Arquivo criado, acesse a pasta log/ para visualizá-lo\n")
+                os.system("pause")
+                os.system("cls||clear")
+            elif option == "2":
+                os.system("cls||clear")
+                print("Voltando...")
+            else:
+                print("Erro, selecione a opção correta.\n\n")
+
+    def get_data(self):
+        for appl in self.appData:
+            print("\n")
+            print("Nome: " + str(appl['Nome']) + "\n")
+            print("Nota: " + str(appl['Nota']) + "\n")
+            print("Total de Avaliações: " + str(appl['Total de Avaliações']) + "\n")
+            print("Total de Comentários: " + str(appl['Total de Comentários']) + "\n")
+            print("Desenvolvedor: " + str(appl['Desenvolvedor']) + "\n")
+            print("Versão Atual: " + str(appl['Versão Atual']) + "\n")
+            print("Lançamento: " + str(appl['Lançamento']) + "\n")
+            print("Data Ultima Atualização: " + str(appl['Data Ultima Atualização']) + "\n")
+            print("Hospedagem: " + str(appl['Hospedagem']) + "\n")
+            print("Downloads Totais: " + str(appl['Downloads Totais']) + "\n")
+            print("Comentários: \n\n" )
+            for com in appl['Comentários']:
+                print("Comentário: " + str(com['Comentario']) + "\n")
+                print("Nota: " + str(com['Nota']) + "\n")
+                print("Data: " + str(com['Data']) + "\n")
+                print("--------------------------------" + "\n")
+        print("\n")
+        print("END")
+
 try:
     mainClass = MainClass()
 

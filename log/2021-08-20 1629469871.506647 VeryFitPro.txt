@@ -1,0 +1,56 @@
+2021-08-201629469871.507645
+
+Nome: VeryFitPro
+Nota: 3.5025167
+Total de Avaliações: 70980
+Total de Comentários: 37381
+Desenvolvedor: Smart Wearable Devices
+Versão Atual: 3.3.0
+Lançamento: 15 de nov. de 2016
+Data Ultima Atualização: August 10, 2021
+Hospedagem: China
+Downloads Totais: 10.000.000+
+Comentários: 
+
+Comentário: Ruim, não sincroniza com o WA Busines
+Nota: 1
+Data: 2021-08-17 12:04:50
+--------------------------------
+Comentário: Praticidade...
+Nota: 5
+Data: 2021-08-15 06:44:36
+--------------------------------
+Comentário: Like many other apps it seems that our data is not really ours despite all the regulations on several countries. There is no way to export any data and do a correct analysis. Sync to Google fit only sends steps. Despite in has an option to send data to google fit it does not work and really does not appear as supported from google.
+Nota: 2
+Data: 2021-08-10 05:58:20
+--------------------------------
+Comentário: Não consigo habilitar a função de controlador de música
+Nota: 3
+Data: 2021-08-09 18:05:16
+--------------------------------
+Comentário: Esse app e uma merdaaaa
+Nota: 1
+Data: 2021-07-21 10:55:51
+--------------------------------
+Comentário: Não aparece a opção de notificar o telegram, fiquei muito decepcionado.
+Nota: 1
+Data: 2021-07-20 07:09:39
+--------------------------------
+Comentário: Nome das atividades em língua desconhecida. O horário da atividade tem três horas de diferença e não consigo alterar. O GPS grava a atividade, com distância, calorias e tempo, mas o trajeto não aparece no mapa do plicativo e nem vai para o Strava. Poucas opções de whatch faces. E pra piorar, nenhum feedback paras as muitas críticas apresentadas na play story. Lamentável.
+Nota: 2
+Data: 2021-07-19 22:56:48
+--------------------------------
+Comentário: E mau de mais, se há outras aplicações que tenho de. Estar constantemente a ligar a minha pulseira nesta nem. Vale a pena porque nem liga.... Passa muito tempo há procura e no fim diz que não permite a confecção... Se pudesse dava 0 estrelas, porque a aplicação no meu nem sequer funciona.
+Nota: 1
+Data: 2021-07-19 07:54:25
+--------------------------------
+Comentário: O app é bom, mais deveria conter mais planos de fundo ou pelo menos um plano de fundo editável, o app é muito simples e tem poucas funções, sem contar que tem umas partes que ficam em outra língua. Também acho que deveria ter como fazer ligação, ter uma calculadora, e uma agenda.
+Nota: 4
+Data: 2021-07-13 23:08:32
+--------------------------------
+Comentário: the application did not translate the activities that are in hungarian and when exporting data to strava the time zone is wrong. lets correct? no one answers... developers
+Nota: 1
+Data: 2021-07-13 09:09:06
+--------------------------------
+
+END
