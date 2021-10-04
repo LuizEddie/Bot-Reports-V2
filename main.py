@@ -242,9 +242,6 @@ class MainClass:
 
 try:
     mainClass = MainClass()
-
-    '''mainClass.create_log_file()'''
-    '''mainClass.read_json_data()'''
     mainClass.menu()
 
 except Exception as e:

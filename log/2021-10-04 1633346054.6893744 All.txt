@@ -1,8 +1,8 @@
-2021-08-201629477358.421152
+2021-10-041633346054.6893744
 
 Nome: Atrio Active
-Nota: 2.671875
-Total de Avaliações: 64
+Nota: 2.7076924
+Total de Avaliações: 65
 Total de Comentários: 50
 Desenvolvedor: Multilaser Mobile
 Versão Atual: 1.1.1
@@ -54,8 +54,8 @@ Data: 2019-03-01 23:21:56
 --------------------------------
 
 Nome: Atrio Active Plus +
-Nota: 2.0192308
-Total de Avaliações: 52
+Nota: 2.0754716
+Total de Avaliações: 53
 Total de Comentários: 34
 Desenvolvedor: Multilaser Mobile
 Versão Atual: 1.0.4
@@ -160,9 +160,9 @@ Data: 2020-12-02 01:30:31
 --------------------------------
 
 Nome: Atrio Smart
-Nota: 1.89
-Total de Avaliações: 359
-Total de Comentários: 259
+Nota: 1.98
+Total de Avaliações: 366
+Total de Comentários: 261
 Desenvolvedor: Multilaser Mobile
 Versão Atual: 1.0.8
 Lançamento: 10 de jan. de 2018
@@ -171,6 +171,14 @@ Hospedagem: Brasil
 Downloads Totais: 10.000+
 Comentários: 
 
+Comentário: Não sincroniza pede aniversário do usuário no qual já foi configurado ....
+Nota: 1
+Data: 2021-09-25 15:42:48
+--------------------------------
+Comentário: a localização precisa estar ligada para parear
+Nota: 4
+Data: 2021-09-20 08:58:20
+--------------------------------
 Comentário: Só marca data e hora e parou de contar os passos. Comrpei há 2 meses. Não sai do zero e eu não sei o que fazer. HELP!!
 Nota: 1
 Data: 2021-08-14 12:56:57
@@ -203,66 +211,58 @@ Comentário: Bom dia Mais uma vez não funciona nada toda hora manda colocar a d
 Nota: 1
 Data: 2021-06-08 11:10:57
 --------------------------------
-Comentário: Ñ estou conseguindo conectar, pois a data do aniversário ñ está validando no App! Mim ajudem por favor!!!
-Nota: 1
-Data: 2021-05-28 22:48:59
---------------------------------
-Comentário: Se não conecta é só ligar o GPS
-Nota: 5
-Data: 2021-05-26 18:27:42
---------------------------------
 
 Nome: CareMeTens
-Nota: 1.375
-Total de Avaliações: 16
-Total de Comentários: 15
+Nota: 1.46875
+Total de Avaliações: 32
+Total de Comentários: 30
 Desenvolvedor: Jumper-Medical
 Versão Atual: 2.0.7
 Lançamento: 16 de out. de 2017
 Data Ultima Atualização: December 18, 2020
 Hospedagem: China
-Downloads Totais: 500+
+Downloads Totais: 1.000+
 Comentários: 
 
-Comentário: Não sei oque é pior o app ou o aparelho bela grana jogada fora nota ZERO.
-Nota: 1
-Data: 2021-08-04 19:20:56
+Comentário: 21/09/2021 O app perde a conexão com o aparelho e não desliga mais, vou pedir a troca. PS: a partir do dia 25/09/2021 o app está funcionando bem, não ocorreu mais falhas.
+Nota: 4
+Data: 2021-09-29 00:20:57
 --------------------------------
-Comentário: Não conecta.
+Comentário: O aplicativo não conecta com o aparelho
 Nota: 1
-Data: 2021-08-03 20:57:10
+Data: 2021-09-26 12:00:41
 --------------------------------
-Comentário: Pessimo
-Nota: 1
-Data: 2021-07-24 16:47:19
+Comentário: Conectou super rápido no celular. Dá para ajustar o timer. Excelente!
+Nota: 5
+Data: 2021-09-22 22:14:32
 --------------------------------
-Comentário: Só conectou na primeira vez o bluetooth depois nem aparece no app o disponível para conectar
+Comentário: Aplicativo precisa ser revisto, N consigo nem me registrar que ele fecha
 Nota: 1
-Data: 2021-07-17 14:11:00
+Data: 2021-09-21 22:15:36
 --------------------------------
-Comentário: O aparelho nao presta !!!! O app tanto quanto. Ja solicitei a troca e nao funciona. Desliga no meio do processo . ate agora nao consigo nem dizer se cumpre o prometido. Sincetamente .... Nao comprem.
+Comentário: Esse APP não funciona de jeito nenhum, não conecta via Bluetooth nem a cassetada. Mas consegui usar o aparelho sem aplicativo, programando direto no aparelho. Porque esse aplicativo não presta,aparelho é bom.
 Nota: 1
-Data: 2021-06-22 09:51:19
+Data: 2021-09-16 21:14:50
 --------------------------------
-Comentário: Não conecta no bluetooth, solicitei troca, veio um novo. A primeira vez conectou super rapido, já na segunda nem aparece o dispositivo no celular pra conectar. O trabalho dele é ótimo, porém se não tem como concertar pra controlar, de nada serve. Precisam atualizar essa conexão bluetooth urgente.
+Comentário: Não conecta de jeito nenhum ao BT
 Nota: 1
-Data: 2021-06-15 23:28:56
+Data: 2021-09-16 14:20:34
 --------------------------------
-Comentário: Não funciona. Não consigo conectar ao aparelho celular.
+Comentário: O app não acha o dispositivo! Incrível, um app que SÓ TEM reclamação, todos falando a mesma coisa e nenhuma providência é tomada? Não consegui nem testar meu aparelho!!
 Nota: 1
-Data: 2021-06-15 14:59:59
+Data: 2021-09-15 21:55:56
 --------------------------------
-Comentário: O aparelho perde a conexão com o app, depois trava e não desliga mais.
+Comentário: Compramos um recentemente e tbm não conecta via bluetooth, pessimo até encontramos o dispositivo mas não abre o controle.
 Nota: 1
-Data: 2021-06-12 10:55:19
+Data: 2021-09-14 21:49:49
 --------------------------------
-Comentário: Na versao Android 7 ele esta fechado !!!
+Comentário: O app precisa de conectividade, não funciona, convertem isso, por favor.
 Nota: 1
-Data: 2021-05-25 15:29:22
+Data: 2021-09-07 07:24:50
 --------------------------------
-Comentário: Aplicativo com última atualização em dezembro e danifica o equipamento, perde o contato com o produto, fecha o tempo todo, não funciona.
+Comentário: Não conecta nem a pau após umas 3 vezes q foi conectado.
 Nota: 1
-Data: 2021-05-22 21:58:01
+Data: 2021-09-05 23:43:15
 --------------------------------
 
 Nome: EvolveBT
@@ -279,17 +279,21 @@ Comentários:
 
 
 Nome: Controle Evolve TV
-Nota: 4.285714
-Total de Avaliações: 7
-Total de Comentários: 3
+Nota: 3.4
+Total de Avaliações: 10
+Total de Comentários: 4
 Desenvolvedor: Multilaser Mobile
 Versão Atual: 1.4.9
 Lançamento: 28 de out. de 2020
 Data Ultima Atualização: January 15, 2021
 Hospedagem: Brasil
-Downloads Totais: 1.000+
+Downloads Totais: 5.000+
 Comentários: 
 
+Comentário: Lixo
+Nota: 1
+Data: 2021-09-06 07:17:45
+--------------------------------
 Comentário: Bom
 Nota: 5
 Data: 2021-07-18 23:07:33
@@ -304,9 +308,9 @@ Data: 2021-06-12 16:34:25
 --------------------------------
 
 Nome: Drones ML
-Nota: 2.8
-Total de Avaliações: 112
-Total de Comentários: 73
+Nota: 2.75
+Total de Avaliações: 117
+Total de Comentários: 77
 Desenvolvedor: Zheng Xiang
 Versão Atual: 1.1.1
 Lançamento: 10 de dez. de 2018
@@ -315,6 +319,18 @@ Hospedagem: China
 Downloads Totais: 10.000+
 Comentários: 
 
+Comentário: Toda vez que aperto a tecla controles o App minimiza a tela0
+Nota: 1
+Data: 2021-09-25 13:30:55
+--------------------------------
+Comentário: App nem se quer conecta com o drone, e pelo que vi não há suporte pra corrigir essa falha.
+Nota: 1
+Data: 2021-09-24 10:36:00
+--------------------------------
+Comentário: Adorei a nova atualização agora meu drone fenix gps vai ate 400 a 300 metros adorei o drone e o aplicativo so a camera do drone que da umas travadas mais adorei
+Nota: 5
+Data: 2021-08-21 12:12:53
+--------------------------------
 Comentário: Simplesmente o software não funciona ,comprei já faz 8 meses o drone fênix es204 com GPS e o aplicativo só fica carregando ,fora que o controle veio com problema e tive que mandar pra assistência sem nem usar e agora que voltou não funciona esse software que é o único que tem pra ele, foi 1300,00 fora nesse drone que tá inútil
 Nota: 1
 Data: 2021-07-25 15:58:48
@@ -343,137 +359,133 @@ Comentário: O último vôo o drone não obedeceu o comando home (retornar ao lu
 Nota: 2
 Data: 2021-03-03 17:09:00
 --------------------------------
-Comentário: Não consegui voar pois as orientações na tela aparecem somente em chinês!
-Nota: 1
-Data: 2021-02-27 07:40:18
---------------------------------
-Comentário: E bom
-Nota: 5
-Data: 2021-02-05 21:33:45
---------------------------------
-Comentário: Ten que melhora muito lento
-Nota: 2
-Data: 2021-01-29 14:25:10
---------------------------------
 
 Nome: FitCloud Pro
-Nota: 3.5606642
-Total de Avaliações: 7644
-Total de Comentários: 4802
+Nota: 3.4816134
+Total de Avaliações: 8351
+Total de Comentários: 5203
 Desenvolvedor: htang
-Versão Atual: 1.3.3
+Versão Atual: 1.3.5
 Lançamento: 23 de jan. de 2019
-Data Ultima Atualização: July 27, 2021
+Data Ultima Atualização: September 26, 2021
 Hospedagem: China
 Downloads Totais: 1.000.000+
 Comentários: 
 
-Comentário: A sincronização é muito falha, direto desconecta. Por favor atualizem pra Android!!
-Nota: 1
-Data: 2021-08-18 22:30:11
---------------------------------
-Comentário: Desconecta do nada, principalmente quando adiciona o papel de parede. Quando reconecta, perde os dados já adicionados, como contatos e alarme, pois não salva os dados. Poderia ter porcentagem da bateria.
+Comentário: Falta opções bonitas de tema
 Nota: 3
-Data: 2021-08-17 23:21:01
+Data: 2021-10-03 17:55:18
 --------------------------------
-Comentário: A APP é estraordinaria,
+Comentário: Muito bom o APP, tô gostando muito dele
+Nota: 4
+Data: 2021-09-30 19:39:41
+--------------------------------
+Comentário: App excelente funciona muito bem mas tem poucos mostradores de ecrã será que dá para adicionar mais?
+Nota: 3
+Data: 2021-09-30 17:36:56
+--------------------------------
+Comentário: Demora muito para reconectar ao smartwatch. A conexão cai a todo momento no Android 11. Não funciona direito em segundo plano .
+Nota: 1
+Data: 2021-09-29 12:23:24
+--------------------------------
+Comentário: Bom
 Nota: 5
-Data: 2021-08-17 22:08:39
+Data: 2021-09-29 10:30:39
 --------------------------------
-Comentário: To bad that can not add other watch faces. 1 custom, but just with 4 options. Terrible!!
+Comentário: O controle de sono tem que melhorar muito. Se acordar durante a noite pra ir ao banheiro, por exemplo, já era. Suas horas de sono são zeradas neste momento
 Nota: 1
-Data: 2021-08-17 18:49:55
+Data: 2021-09-27 03:57:43
 --------------------------------
-Comentário: App fraca desconecta com facilidade
-Nota: 1
-Data: 2021-08-17 12:47:52
+Comentário: Muito bom bem completo
+Nota: 5
+Data: 2021-09-26 00:27:19
 --------------------------------
-Comentário: Poderia ter mais Wacthfaces que indicasse tudo (bateria, passos, calorias, distância percorrida e etc...)
-Nota: 3
-Data: 2021-08-16 21:41:18
+Comentário: Bom, porém não tem notificação para gb whatsapp
+Nota: 4
+Data: 2021-09-24 13:09:52
 --------------------------------
-Comentário: Todos outros modelos tem disponíveis infinitos facewatch aqui e um punhado... quem quer ser excelência tem que entregar excelência Todos outros modelos tem disponíveis infinitos facewatch aqui e um punhado... quem quer ser excelência tem que entregar excelência
-Nota: 1
-Data: 2021-08-15 12:06:27
+Comentário: Bom
+Nota: 5
+Data: 2021-09-24 11:38:41
 --------------------------------
-Comentário: App legal intuitivo. Mas não sei ainda se é algo em relação quanto a software.. quanto a intensidade de vibração... baixa demais. Outra coisa são os alertas.. não da para adicionar o aplicativo que não esta disponível na lista de notificações. Seria bem interessante isso. Comprei um w46 para notificações do WhatsApp bussines e e-mail.. ele não mostra.
-Nota: 2
-Data: 2021-08-15 09:23:28
---------------------------------
-Comentário: Falta muita outras opções de notificação, dos bancos digitais por exemplo, e tem uns lá que ninguém usa mais!
-Nota: 2
-Data: 2021-08-13 20:50:54
---------------------------------
-Comentário: Ruim
-Nota: 1
-Data: 2021-08-12 08:43:50
+Comentário: Bom
+Nota: 5
+Data: 2021-09-23 16:10:48
 --------------------------------
 
 Nome: FitDays
-Nota: 3.7544081
-Total de Avaliações: 7834
-Total de Comentários: 5409
+Nota: 4.550626
+Total de Avaliações: 8735
+Total de Comentários: 5744
 Desenvolvedor: ICOMON
-Versão Atual: 1.8.1
+Versão Atual: 1.8.2
 Lançamento: 29 de set. de 2018
-Data Ultima Atualização: August 20, 2021
+Data Ultima Atualização: September 2, 2021
 Hospedagem: China
 Downloads Totais: 1.000.000+
 Comentários: 
 
-Comentário: Qual a necessidade de ligar alem do bluetooth a localização do celular....
-Nota: 3
-Data: 2021-08-18 17:09:20
---------------------------------
-Comentário: O mesmo não permite ver resultados passados, conexão sempre dá falha e muito mais.
-Nota: 1
-Data: 2021-08-08 20:25:51
---------------------------------
-Comentário: Não atualiza as informações do usuário, apenas a primeira vez.
-Nota: 1
-Data: 2021-07-30 07:54:56
---------------------------------
-Comentário: O aplicativo com minha balança de bioimpedância Bluetooth Multilaser HC060, só mostra o peso e IMC, já instalei e desinstalei várias vezes o aplicativo e continua com o erro.
-Nota: 1
-Data: 2021-07-24 19:27:53
---------------------------------
-Comentário: Não funciona! Só mede IMC e peso. Os outros resultados não.
-Nota: 1
-Data: 2021-07-23 08:18:27
---------------------------------
-Comentário: Apresenta vários problemas de aferição de gordura corporal por exemplo; não permite abrir os dados salvos, nem sempre conecta o bluetooh mesmo seguindo todas as orientações.
-Nota: 3
-Data: 2021-07-19 17:31:41
---------------------------------
-Comentário: A ideia é muito boa. Muitas boas informações. Muito válidas. Porém, infelizmente, o app não é muito intuitivo. Não consigo apagar os usuários criados. Com isso, eu só consigo alterar os dados do usuário mais recente. Eu também não consegui alterar na balança de "Lb" para "Kg" (apenas no App). Precisa dessas correções/atualizações, urgentemente!
-Nota: 2
-Data: 2021-07-14 19:37:25
---------------------------------
-Comentário: Deveriam tirar a restrição de 24 usuários por conta.
-Nota: 1
-Data: 2021-07-14 18:33:14
---------------------------------
-Comentário: Gostei, custo-benefício ótimo, por enquanto está atendendo as expectativas.
+Comentário: Melhor APP tem que ter para usar para todas balanças via wifi de todas marcas e modelos sempre
 Nota: 5
-Data: 2021-07-13 17:09:53
+Data: 2021-10-02 10:59:47
 --------------------------------
-Comentário: Muito bom
+Comentário: Ótimo adorei exelente aplicativo
 Nota: 5
-Data: 2021-07-13 02:37:24
+Data: 2021-09-22 14:06:19
+--------------------------------
+Comentário: O app não consegue manter a unidade em kg e somente em libras. Isso não estava acontecendo. Você muda no app para kg e ele volta para libras.
+Nota: 1
+Data: 2021-09-22 10:10:20
+--------------------------------
+Comentário: Vi pessoas reclamando que não está dando o IMC e demais medições. Certifique que o cabo esteja plutão até o final em ambas extremidades.... estava com mesmo problema e foi fazer isso que resolveu.
+Nota: 5
+Data: 2021-09-22 06:29:08
+--------------------------------
+Comentário: Não estou conseguindo dar continuidade na medição do mesmo usuário cadastrado! Não dá para acompanhar a evolução de cada usuário! O que fazer? Balanca: relaxmed RM BD0263A
+Nota: 3
+Data: 2021-09-16 13:34:33
+--------------------------------
+Comentário: Não compartilha arquivo formato incompatível..... versão 1.72 funcionava normal
+Nota: 3
+Data: 2021-09-15 14:36:30
+--------------------------------
+Comentário: Não consigo ver a parte completa, no caso os dados de gordura corporal.
+Nota: 3
+Data: 2021-09-14 18:43:42
+--------------------------------
+Comentário: Algumas sugestões que podem melhorar a experiência do usuário e as vendas da empresa: 1. Cadastro de usuários ilimitados. 2. Criação de arquivos pdf para entregar aos clientes na forma digital ou impressa. 3. Botão dando a opção do usuário usar o aplicativo offline (mesmo aumentando o tamanho, mas salvando os dados no celular, além de cadastrar usuários novos offline). (Ótimo para quem trabalha com conexões ruins). 4. Botão para armazenamento dos dados na nuvem e backup.
+Nota: 3
+Data: 2021-09-10 11:19:57
+--------------------------------
+Comentário: Encontrei a falha de leitura de todos os dados. Era o cabo mal conectado. Atualizo aqui a minha avaliação. Falha minha.Tudo certo agora.
+Nota: 5
+Data: 2021-09-09 13:41:16
+--------------------------------
+Comentário: Está aprovado , existe a troca de usuário leia o manual a balança é excelente parabéns
+Nota: 5
+Data: 2021-09-06 23:34:24
 --------------------------------
 
 Nome: GPS Bike
-Nota: 1.47
-Total de Avaliações: 128
-Total de Comentários: 118
+Nota: 1.41
+Total de Avaliações: 131
+Total de Comentários: 120
 Desenvolvedor: chenkun
-Versão Atual: 5.1.4
+Versão Atual: 5.1.6
 Lançamento: 18 de set. de 2018
-Data Ultima Atualização: August 2, 2021
+Data Ultima Atualização: September 9, 2021
 Hospedagem: China
-Downloads Totais: 1.000+
+Downloads Totais: 5.000+
 Comentários: 
 
+Comentário: NAO CONECTA NEM REZANDO
+Nota: 1
+Data: 2021-09-29 13:02:20
+--------------------------------
+Comentário: Muito Ruim 👎
+Nota: 1
+Data: 2021-09-24 15:45:07
+--------------------------------
 Comentário: Incluíram a opção de excluir a atividade automática no dispositivo... Mas ninguém testou pelo visto, pq ele primeiro excluí a atividade para depois tentar sincronizar 🤦🏻‍♂️
 Nota: 3
 Data: 2021-08-10 22:34:24
@@ -485,10 +497,6 @@ Data: 2021-08-04 09:33:10
 Comentário: Esse app é uma carroça, não funciona! Deveria ser retirado da play story, chega a ser ridículo comprar um aparelho caro e não poder usá-lo da forma que a gente deseja por causa de um app que não funciona.
 Nota: 1
 Data: 2021-07-02 17:55:25
---------------------------------
-Comentário: Voltou a sincronizar!!!!!👍🙏
-Nota: 5
-Data: 2021-06-18 18:24:15
 --------------------------------
 Comentário: Normalizou !!!
 Nota: 5
@@ -510,15 +518,11 @@ Comentário: Que aplicativo se usa agora que não conecta com o átrio titanium?
 Nota: 1
 Data: 2021-06-15 10:14:51
 --------------------------------
-Comentário: Muito ruim,me arrependi de ter comprado deveria ter comprado um Garmim 😔
-Nota: 1
-Data: 2021-06-15 06:48:18
---------------------------------
 
 Nome: Groove RC
-Nota: 2.9607842
-Total de Avaliações: 51
-Total de Comentários: 28
+Nota: 3
+Total de Avaliações: 53
+Total de Comentários: 30
 Desenvolvedor: Multilaser Mobile
 Versão Atual: 1.8
 Lançamento: 5 de abr. de 2019
@@ -527,6 +531,14 @@ Hospedagem: Brasil
 Downloads Totais: 10.000+
 Comentários: 
 
+Comentário: Funciona perfeitamente muito top
+Nota: 5
+Data: 2021-09-21 12:11:46
+--------------------------------
+Comentário: Funciona bem, mas falta as demais funções do rádio (acessar pastas, equalizador, etc) aí fica show.
+Nota: 3
+Data: 2021-09-19 16:59:15
+--------------------------------
 Comentário: Muito bom!!!
 Nota: 5
 Data: 2021-08-03 13:57:03
@@ -559,27 +571,23 @@ Comentário: Funciona de boa..estou satisfeito...
 Nota: 5
 Data: 2020-11-06 13:08:59
 --------------------------------
-Comentário: Baixei e está em japonês como colocar em português ?
-Nota: 3
-Data: 2020-10-25 07:30:10
---------------------------------
-Comentário: Não funciona,no Multilaser prime BT perdi tempo......
-Nota: 1
-Data: 2020-10-04 18:59:22
---------------------------------
 
 Nome: Hawk Drones
-Nota: 2.1470587
-Total de Avaliações: 34
-Total de Comentários: 30
+Nota: 2.1142857
+Total de Avaliações: 35
+Total de Comentários: 31
 Desenvolvedor: Multilaser Mobile
 Versão Atual: 1.1.2
 Lançamento: 7 de mar. de 2019
 Data Ultima Atualização: February 26, 2020
 Hospedagem: Brasil
-Downloads Totais: 1.000+
+Downloads Totais: 5.000+
 Comentários: 
 
+Comentário: Horrível, não sei como é permitido vender algo que não funciona. Carreguei a bateria em 100% , usei 80% da bateria esperando o GPS reconhecer. Horrível o aplicativo, o suporte dessa marca. Amanhã devolvo o drone na loja. Não comprem.
+Nota: 1
+Data: 2021-09-15 22:17:03
+--------------------------------
 Comentário: Ótimo
 Nota: 5
 Data: 2021-08-06 16:34:43
@@ -616,15 +624,11 @@ Comentário: Poderia melhorar na questão do GPS no reconhecimento,melhorar na p
 Nota: 1
 Data: 2020-11-18 13:41:56
 --------------------------------
-Comentário: Razoável
-Nota: 2
-Data: 2020-06-14 11:11:50
---------------------------------
 
 Nome: Multilaser Drones
-Nota: 4.2
-Total de Avaliações: 5
-Total de Comentários: 2
+Nota: 4.0833335
+Total de Avaliações: 12
+Total de Comentários: 7
 Desenvolvedor: Multilaser Mobile
 Versão Atual: 1.1.0
 Lançamento: 17 de jun. de 2021
@@ -633,6 +637,26 @@ Hospedagem: Brasil
 Downloads Totais: 1.000+
 Comentários: 
 
+Comentário: Não estou conseguindo conectar para fazer vídeos né fotos. Preciso ter um cartão de memória?
+Nota: 4
+Data: 2021-09-11 19:21:53
+--------------------------------
+Comentário: Alguem sabe dizer se da certo no drone fenix ?
+Nota: 5
+Data: 2021-09-08 12:36:18
+--------------------------------
+Comentário: Fica travando muito a tela do drone, corre risco de quebrar
+Nota: 3
+Data: 2021-09-04 10:15:54
+--------------------------------
+Comentário: Muito bom
+Nota: 5
+Data: 2021-08-26 19:34:42
+--------------------------------
+Comentário: Ótimo
+Nota: 5
+Data: 2021-08-22 23:16:34
+--------------------------------
 Comentário: Muito bom, maravilhoso kkkkk.
 Nota: 5
 Data: 2021-07-15 20:34:08
@@ -643,62 +667,62 @@ Data: 2021-06-26 02:13:55
 --------------------------------
 
 Nome: Multilaser Liv
-Nota: 3.4183674
-Total de Avaliações: 98
-Total de Comentários: 46
+Nota: 3.31
+Total de Avaliações: 118
+Total de Comentários: 59
 Desenvolvedor: Giga Security
-Versão Atual: 1.0.4
+Versão Atual: 1.0.5
 Lançamento: 20 de nov. de 2019
-Data Ultima Atualização: July 28, 2021
+Data Ultima Atualização: August 31, 2021
 Hospedagem: Brasil
 Downloads Totais: 10.000+
 Comentários: 
 
-Comentário: 899io
+Comentário: Um ótimo aplicativo, dá para melhorar....
 Nota: 4
-Data: 2021-08-19 15:09:20
+Data: 2021-10-02 15:43:24
 --------------------------------
-Comentário: H E R Y U L I O Z A S
-Nota: 5
-Data: 2021-08-16 11:54:06
---------------------------------
-Comentário: Excelente aplicativo, super fácil de usar e sem bugs.
-Nota: 5
-Data: 2021-08-10 09:08:58
---------------------------------
-Comentário: Não conecta na lâmpada de forma alguma...
+Comentário: A minha câmera SE223 nunca funciona nesse app. 200 reais jogados no lixo. Não comprem!
 Nota: 1
-Data: 2021-08-04 12:53:28
+Data: 2021-09-27 00:30:18
 --------------------------------
-Comentário: Depois da atualização, simplesmente desconfigurou e não consigo configurar e nem encontrar dispositivo com Alexa
+Comentário: Pucha vida acabei colocando a câmera off line e não estou conseguindo voltar com ela para o online, muito complicado esse App alguém pode me ajudar por favor?
 Nota: 1
-Data: 2021-07-16 22:36:04
+Data: 2021-09-19 00:53:10
 --------------------------------
-Comentário: Bom
-Nota: 5
-Data: 2021-07-15 15:12:57
---------------------------------
-Comentário: Já por várias vezes necessitei retirar as filmagens bda nuvem e vejo que tem um buraco , hoje dia 10/07/2021 tenho a uma filmagem as 06:49 e a próxima só as 08:06hs sendo que não pego a filmagem da minha esposa saindo com o Carro e nem dos meus cachorros fugindo. Não é a primeira vez que acontece e não tenho nenhum retorno. Caso não tenha retorno vou cancelar minha assinatura de gravação na nuvem bem como as do meu Pai.
+Comentário: Comprei 2 câmeras e com 2 dias 1 sumiu do app. Agora a outra só fica off line e não sei o q fazer. Alguém poderia me ajudar?
 Nota: 1
-Data: 2021-07-13 13:41:03
+Data: 2021-09-18 00:42:04
 --------------------------------
-Comentário: A fechadura é super completa, mais o aplicativo deixou a desejar em algumas funções que hora funciona outra hora não. Nota 9
+Comentário: Não conheço.
+Nota: 1
+Data: 2021-09-12 10:57:10
+--------------------------------
+Comentário: Comprei um plug (tomada) da multilaser é simplesmente é horrível! Fica perdendo a conexão com meu roteador do lado Tudo na casa funcionando perfeitamente os interruptores chineses, lâmpadas, Sonoff etc etc... Mas a bendita tomada dessa marca vive off-line.. Aí preciso toda hora ir lá.. Tirar da energia e por novamente.. Em 5seg volta a funcionar Af se for pra eu sempre que precisar usr ter que ir lá tirar e por na tomada, não tem por que usar uma tomada inteligente Não recomendo essa marca
+Nota: 1
+Data: 2021-09-09 11:17:19
+--------------------------------
+Comentário: Complicado, a lampada fica travada em uma cor amarelada, eu queria branca, e quando tento por em colorida só fica vermelha, parece que essa lampada só tem duas cores
+Nota: 3
+Data: 2021-09-05 18:18:52
+--------------------------------
+Comentário: Não consigo fazer login em outra celulares, apenas em 1de cada vez. Só pode logar um celular?
 Nota: 4
-Data: 2021-07-11 16:12:00
+Data: 2021-09-04 16:19:31
 --------------------------------
-Comentário: Muito ruim aplicativo e câmera quando grava tudo não tem acesso as gravações vive travando péssimo o sistema das nuvens deles mesmo ruim .
-Nota: 1
-Data: 2021-07-10 01:09:45
+Comentário: Recomendo a todos da Google Play ▶️
+Nota: 5
+Data: 2021-09-03 14:05:49
 --------------------------------
-Comentário: Tô tentando falar e cadastrar está lâmpada que ganhei do meu filho porém não consigo queria um suporte pois tô ficando irritado com tudo isso 😕😕😕😕
-Nota: 1
-Data: 2021-07-05 17:29:10
+Comentário: Show
+Nota: 5
+Data: 2021-09-03 12:50:39
 --------------------------------
 
 Nome: Pulse Player
-Nota: 2.8461537
-Total de Avaliações: 13
-Total de Comentários: 9
+Nota: 2.857143
+Total de Avaliações: 14
+Total de Comentários: 10
 Desenvolvedor: Multilaser Mobile
 Versão Atual: 1.0.0.201209
 Lançamento: 3 de nov. de 2020
@@ -707,6 +731,10 @@ Hospedagem: Brasil
 Downloads Totais: 1.000+
 Comentários: 
 
+Comentário: Não possuem a versão para a sp500 não?
+Nota: 3
+Data: 2021-09-22 19:45:46
+--------------------------------
 Comentário: Funciona para SP 355 tentei conectar e não consegui?
 Nota: 3
 Data: 2021-08-15 01:04:40
@@ -745,61 +773,61 @@ Data: 2020-11-10 09:32:35
 --------------------------------
 
 Nome: SmartBT iPlug
-Nota: 2.72549
-Total de Avaliações: 363
-Total de Comentários: 234
+Nota: 2.87
+Total de Avaliações: 411
+Total de Comentários: 256
 Desenvolvedor: Shenzhen Anghui Electronic Technology Co., Ltd.
 Versão Atual: 2.0.2
 Lançamento: 2 de jul. de 2019
 Data Ultima Atualização: April 2, 2021
 Hospedagem: China
-Downloads Totais: 50.000+
+Downloads Totais: 100.000+
 Comentários: 
 
-Comentário: Ótimo
+Comentário: bom
 Nota: 5
-Data: 2021-08-15 12:08:15
+Data: 2021-09-30 17:12:28
 --------------------------------
-Comentário: Não entra!!!!! Que raiva
+Comentário: Uma pena que consegui usar apenas uma vez. Agora o app não abre. Fica dando erro de tempo de conexão, já desinstalei e instalei de novo, limpei cache e nada. Parecia ser legal.
 Nota: 1
-Data: 2021-08-13 16:10:58
+Data: 2021-09-28 07:53:04
 --------------------------------
-Comentário: Não estou nem conseguindo baixar?
+Comentário: Muito bom
+Nota: 4
+Data: 2021-09-23 01:13:01
+--------------------------------
+Comentário: Muito durante um período mas hoje não abre, mas o tempo inspira e desliga automaticamente alguém aí da uma ajuda pra nós
+Nota: 2
+Data: 2021-09-21 00:00:55
+--------------------------------
+Comentário: Péssimo só funcionou uma vez tento entrar no app e não consigo ...
 Nota: 1
-Data: 2021-08-09 18:47:48
+Data: 2021-09-20 18:52:17
 --------------------------------
-Comentário: Horrível...
+Comentário: ABAIXO DE ZEROOOOO
 Nota: 1
-Data: 2021-08-07 15:09:02
+Data: 2021-09-19 20:27:28
 --------------------------------
-Comentário: Simplesmente lixo 🗑
+Comentário: O app parou de funcionar
 Nota: 1
-Data: 2021-08-07 13:42:34
+Data: 2021-09-18 07:51:13
 --------------------------------
-Comentário: Aplicativo não Abre de forma alguma já desistalei uma 10 vezes e nada nota 0
-Nota: 1
-Data: 2021-08-05 17:13:05
+Comentário: MEU CARRO NÂO ESTÁ CONECTANDO O SOM DE JEITO NENHUM PODERIAM, NOS INFORMAR QUAL É O PROBLEMA?
+Nota: 3
+Data: 2021-09-11 16:38:15
 --------------------------------
-Comentário: Não funciona de jeito nenhum e horrível
-Nota: 1
-Data: 2021-08-04 23:09:41
---------------------------------
-Comentário: Perfeito⭐⭐⭐⭐⭐
+Comentário: Controlar tudo de longe pelo celular é muito bom
 Nota: 5
-Data: 2021-07-31 15:50:46
+Data: 2021-09-09 14:21:30
 --------------------------------
-Comentário: N consigo usar o aplicativo.
+Comentário: Não esta abrindo o app
 Nota: 1
-Data: 2021-07-31 10:44:26
---------------------------------
-Comentário: Não funciona mais essa app não recomendo não
-Nota: 1
-Data: 2021-07-31 09:19:49
+Data: 2021-09-09 09:35:45
 --------------------------------
 
 Nome: SmartLink
-Nota: 2.75
-Total de Avaliações: 8
+Nota: 2.8
+Total de Avaliações: 10
 Total de Comentários: 5
 Desenvolvedor: Shenzhen gogosunny electronic technology co.,ltd
 Versão Atual: 1.17.0091
@@ -815,9 +843,9 @@ Data: 2020-12-23 19:57:35
 --------------------------------
 
 Nome: SW Atrio
-Nota: 2.95
-Total de Avaliações: 365
-Total de Comentários: 259
+Nota: 2.76
+Total de Avaliações: 400
+Total de Comentários: 285
 Desenvolvedor: Multilaser Mobile
 Versão Atual: V1.0.32
 Lançamento: 1 de mar. de 2019
@@ -826,112 +854,116 @@ Hospedagem: Brasil
 Downloads Totais: 10.000+
 Comentários: 
 
-Comentário: Péssimo APP.. E o relógio pior!ambos travam facilmente..horrivel, e eles veem com coversinha .pedindo pra mandar e-mail entrar em contato com suporte técnico, e não resolvem nada. Sem contar que o relógio e o APP não contam com uma nova atualização a anos!
-Nota: 1
-Data: 2021-08-20 07:03:35
---------------------------------
-Comentário: Gostaria de saber porque não consigo sincronizar o aplicativo com o relógio, a data e hora não bse ajusta e não consigo receber as msg no relógio
-Nota: 1
-Data: 2021-08-14 21:11:36
---------------------------------
-Comentário: Muito ruim, não marca direito, estou decepcionada
-Nota: 1
-Data: 2021-08-04 13:16:00
---------------------------------
-Comentário: Ainda bem que tem o aplicativo
-Nota: 4
-Data: 2021-07-31 17:40:06
---------------------------------
-Comentário: Bom
-Nota: 5
-Data: 2021-07-30 17:13:30
---------------------------------
-Comentário: Gente alguém consegui por foto de capa no relógio por esse aplicativo?
-Nota: 1
-Data: 2021-07-19 10:59:09
---------------------------------
-Comentário: Meu relógio foi trocado 3 vezes. E agora não segura carga. Carrego de manhã e a tarde já não funciona. Não indico. Gosto muito dos produtos da Multilaser, mas esse foi terrível. Não quero mais ir no correio trocar, perdi o dinheiro.
-Nota: 1
-Data: 2021-07-19 10:57:08
---------------------------------
-Comentário: Eu gostaria de entender, pela segunda vez que retornou da manutenção, o por que do GPS não sincroniza direito?!?! Se ele é um receptor e o sistema GPS é o mais usual desde a década de 60 do século passado, o relógio só conseguie sincronizar após do 3 km?!?!
+Comentário: Não consigo parear mais com o bluetooth....
 Nota: 2
-Data: 2021-07-13 22:49:09
+Data: 2021-10-02 22:30:37
 --------------------------------
-Comentário: PÉSSIMO APLICATIVO. Não contabiliza direito os passos e mal monitora a frequência cardíaca. Muito instável. É urgente que seja feita uma melhora significativa nele, porque ninguém aqui tem dinheiro sobrando pra comprar um relógio caro que não funciona com o app adequado.
-Nota: 1
-Data: 2021-07-08 13:15:50
---------------------------------
-Comentário: Tem como colocar uma foto na tela do relógio "Roma" ?
+Comentário: Poderia ter mais opções de mudar os temas, ou uma função que permitisse a gente personalizar a pulseira igual os concorrentes fazem. O app desconecta sozinho também, seria um ponto a aprimorar, pois vira e mexe tenho que conectar o app ao relógio.
 Nota: 3
-Data: 2021-07-07 11:54:34
+Data: 2021-10-02 15:00:59
+--------------------------------
+Comentário: O relógio desconectou do celular é agora não quer mais parear. Já desliguei e liguei o aplicativo, reinstalei e nada.
+Nota: 2
+Data: 2021-10-01 09:16:39
+--------------------------------
+Comentário: Gostei bastante do aplicativo, mas acredito q o meu veio com defeito, não segura a bateria e agora nem está contando os passos, e veio sem a nota fiscal, por isso estou tendo muita dificuldade em fazer a troca
+Nota: 3
+Data: 2021-09-30 06:49:10
+--------------------------------
+Comentário: Comprei o produto e com dois dias eu devolvi, interface ruim,gps péssimo e não sincroniza com o strava, se vc não quiser passar raiva com ele não compre
+Nota: 1
+Data: 2021-09-29 11:11:27
+--------------------------------
+Comentário: Antes quando comprei eu pareava bluetooth e dava certinho, esses dias ele parou de me lembrar de tomar água e fazer exercícios físicos, ele não me lembra, a partir de hoje estou magoado com o app, ele não parei, avisa que foi erro de correspondência mas não foi, fiz 1 mil vezes desinstalei e instalei e nada, não pareia com meu SwToquio de jeito nenhum por isso ganha 1 estrela
+Nota: 1
+Data: 2021-09-22 07:54:13
+--------------------------------
+Comentário: Eu não sei o que fazer... O relógio fica o tempo todo desconectado. Do jeito que está, não consigo resultado desejado. Muito ruim!!! Gostaria que melhorassem essa questão da conexão bluetooth.
+Nota: 1
+Data: 2021-09-21 21:54:14
+--------------------------------
+Comentário: No meu celular antigo funcionava muito bem, no meu celular novo, uma negação. Decepcionado.
+Nota: 1
+Data: 2021-09-20 20:43:43
+--------------------------------
+Comentário: O app não funciona bem. Aparece -1% de bateria sendo que o relógio está carregado. Tmb não sincronizam a data e hora no relógio. No relógio contabilizam passos e tudo mais, e no app não .
+Nota: 1
+Data: 2021-09-19 15:35:10
+--------------------------------
+Comentário: Estou um pouco decepcionada com o app e o relógio, o app está com vários erros, não pega o grau da cidade que estou, o registro do sono sempre é errado e a contagem de passos também.
+Nota: 3
+Data: 2021-09-16 02:26:36
 --------------------------------
 
 Nome: VeryFitPro
-Nota: 3.502306
-Total de Avaliações: 70981
-Total de Comentários: 37382
+Nota: 3.5604079
+Total de Avaliações: 72394
+Total de Comentários: 38031
 Desenvolvedor: Smart Wearable Devices
-Versão Atual: 3.3.0
+Versão Atual: 3.3.1
 Lançamento: 15 de nov. de 2016
-Data Ultima Atualização: August 10, 2021
+Data Ultima Atualização: September 14, 2021
 Hospedagem: China
 Downloads Totais: 10.000.000+
 Comentários: 
 
-Comentário: Ruim, não sincroniza com o WA Busines
-Nota: 1
-Data: 2021-08-17 12:04:50
---------------------------------
-Comentário: Praticidade...
-Nota: 5
-Data: 2021-08-15 06:44:36
---------------------------------
-Comentário: Like many other apps it seems that our data is not really ours despite all the regulations on several countries. There is no way to export any data and do a correct analysis. Sync to Google fit only sends steps. Despite in has an option to send data to google fit it does not work and really does not appear as supported from google.
-Nota: 2
-Data: 2021-08-10 05:58:20
---------------------------------
-Comentário: Não consigo habilitar a função de controlador de música
-Nota: 3
-Data: 2021-08-09 18:05:16
---------------------------------
-Comentário: Esse app e uma merdaaaa
-Nota: 1
-Data: 2021-07-21 10:55:51
---------------------------------
-Comentário: Não aparece a opção de notificar o telegram, fiquei muito decepcionado.
-Nota: 1
-Data: 2021-07-20 07:09:39
---------------------------------
-Comentário: Nome das atividades em língua desconhecida. O horário da atividade tem três horas de diferença e não consigo alterar. O GPS grava a atividade, com distância, calorias e tempo, mas o trajeto não aparece no mapa do plicativo e nem vai para o Strava. Poucas opções de whatch faces. E pra piorar, nenhum feedback paras as muitas críticas apresentadas na play story. Lamentável.
-Nota: 2
-Data: 2021-07-19 22:56:48
---------------------------------
-Comentário: E mau de mais, se há outras aplicações que tenho de. Estar constantemente a ligar a minha pulseira nesta nem. Vale a pena porque nem liga.... Passa muito tempo há procura e no fim diz que não permite a confecção... Se pudesse dava 0 estrelas, porque a aplicação no meu nem sequer funciona.
-Nota: 1
-Data: 2021-07-19 07:54:25
---------------------------------
-Comentário: O app é bom, mais deveria conter mais planos de fundo ou pelo menos um plano de fundo editável, o app é muito simples e tem poucas funções, sem contar que tem umas partes que ficam em outra língua. Também acho que deveria ter como fazer ligação, ter uma calculadora, e uma agenda.
+Comentário: Bom dia SUPORTE: na sincronização entre o smartwatch e o APP Google Fit existem benefícios positivos no REGISTRO pela transferência dos dados: medição da quantidade de passos. Os dados da frequência cardíaca são registrados no APP VeryFit Pro. DIFICULDADE: os dados dos sensores corporais, coletados da frequência cardíaca, ainda não são transferidos, para o Google Fit Como fazer a transferência dos dados do APP VeryFit Pro para o Google Fit , por favor?
 Nota: 4
-Data: 2021-07-13 23:08:32
+Data: 2021-10-01 08:19:53
 --------------------------------
-Comentário: the application did not translate the activities that are in hungarian and when exporting data to strava the time zone is wrong. lets correct? no one answers... developers
+Comentário: Funciona
+Nota: 4
+Data: 2021-09-30 13:22:23
+--------------------------------
+Comentário: Poderia ter a opção de ver as parciais de km por km no aplicativo não só o pace final.. De resto ajuda bem as expectativas
+Nota: 3
+Data: 2021-09-30 08:56:11
+--------------------------------
+Comentário: O app é muito bom mas tem um problema grave, ao sincronizar as atividades com o strava manda horário errado com diferença de 3 horas.
+Nota: 3
+Data: 2021-09-29 18:57:26
+--------------------------------
+Comentário: App não notificação do WhatsApp.
+Nota: 3
+Data: 2021-09-27 10:01:20
+--------------------------------
+Comentário: Até que é bom o app, mas muito simples , não tem bem opção de mudar os mostradores(watchface)
+Nota: 3
+Data: 2021-09-19 19:20:45
+--------------------------------
+Comentário: Está dando erro quando vou sincronizar.
 Nota: 1
-Data: 2021-07-13 09:09:06
+Data: 2021-09-18 08:47:46
+--------------------------------
+Comentário: Pessimo, Não conecta com o Strava, meu Mi A2 Lite Android mais atual, ja tentei de todas as formas, ja ativei todas as permissões do app e não conecta...
+Nota: 1
+Data: 2021-09-16 22:29:15
+--------------------------------
+Comentário: Não consigo conectar
+Nota: 3
+Data: 2021-09-13 19:45:21
+--------------------------------
+Comentário: Não contém língua Portuguesa
+Nota: 3
+Data: 2021-09-08 18:27:16
 --------------------------------
 
 Nome: X Sport Pro
-Nota: 2.69
-Total de Avaliações: 229
-Total de Comentários: 163
+Nota: 2.72549
+Total de Avaliações: 246
+Total de Comentários: 179
 Desenvolvedor: csd001
-Versão Atual: V1.0.5
+Versão Atual: 1.0.8
 Lançamento: 6 de mai. de 2018
-Data Ultima Atualização: August 26, 2020
+Data Ultima Atualização: October 1, 2021
 Hospedagem: China
 Downloads Totais: 10.000+
 Comentários: 
 
+Comentário: Comprei uma Atrio e o app está funcionando normalmente, transferindo fotos e vídeos para o celular e também gerenciando a câmera. Tudo de forma rápida e fluida
+Nota: 5
+Data: 2021-08-25 20:11:35
+--------------------------------
 Comentário: Grava mas depois da erro
 Nota: 1
 Data: 2021-07-10 18:09:02
@@ -968,15 +1000,11 @@ Comentário: Lixo de aplicativo, não consegue conectar de jeito nenhum com a c�
 Nota: 1
 Data: 2020-02-11 19:51:39
 --------------------------------
-Comentário: Não.consigo acessar as fotos da camera
-Nota: 2
-Data: 2020-01-16 07:11:41
---------------------------------
 
 Nome: XDV
-Nota: 2.461604
-Total de Avaliações: 11703
-Total de Comentários: 6852
+Nota: 2.4552364
+Total de Avaliações: 11785
+Total de Comentários: 6903
 Desenvolvedor: wisdomplus
 Versão Atual: 1.9.22
 Lançamento: 2 de set. de 2015
@@ -985,6 +1013,18 @@ Hospedagem: China
 Downloads Totais: 1.000.000+
 Comentários: 
 
+Comentário: Difícil de usar.
+Nota: 3
+Data: 2021-09-21 15:59:32
+--------------------------------
+Comentário: Não conecta mais com o celular.
+Nota: 1
+Data: 2021-09-12 11:57:30
+--------------------------------
+Comentário: Lixo não funciona
+Nota: 1
+Data: 2021-08-27 16:09:46
+--------------------------------
 Comentário: Não se consegue conectar a rede com o telemóvel...decepção total
 Nota: 1
 Data: 2021-08-05 13:03:44
@@ -1013,23 +1053,11 @@ Comentário: Consegui conectar com a ActionCam, mas não funciona. Desinstalando
 Nota: 1
 Data: 2021-05-20 11:16:34
 --------------------------------
-Comentário: Conector mas não aparece os intens salvos na galeria vou dar só duas estrelas..
-Nota: 2
-Data: 2021-05-19 01:24:51
---------------------------------
-Comentário: Simplesmente não conecta.
-Nota: 1
-Data: 2021-04-06 15:10:59
---------------------------------
-Comentário: Horrível. Já tive a App uma vez e correu super bem. Agora no meu telemóvel novo não funciona bem
-Nota: 1
-Data: 2021-03-31 15:36:51
---------------------------------
 
 Nome: Drone New Shark
-Nota: 0
-Total de Avaliações: None
-Total de Comentários: 0
+Nota: 1.8
+Total de Avaliações: 5
+Total de Comentários: 2
 Desenvolvedor: Multilaser Mobile
 Versão Atual: 1.0.0
 Lançamento: 28 de jan. de 2021
@@ -1038,6 +1066,10 @@ Hospedagem: Brasil
 Downloads Totais: 500+
 Comentários: 
 
+Comentário: Não vale nada só conecta com 5g não com 4
+Nota: 1
+Data: 2021-10-02 20:37:16
+--------------------------------
 Comentário: Não funciona, não consegue recomhecer que está comectado
 Nota: 1
 Data: 2021-05-24 14:35:47
@@ -1048,9 +1080,9 @@ Nota: 0
 Total de Avaliações: None
 Total de Comentários: 0
 Desenvolvedor: Multilaser Mobile
-Versão Atual: 1.0.3
+Versão Atual: 1.0.4
 Lançamento: 4 de mar. de 2021
-Data Ultima Atualização: March 4, 2021
+Data Ultima Atualização: September 4, 2021
 Hospedagem: Brasil
 Downloads Totais: 100+
 Comentários: 
@@ -1061,62 +1093,62 @@ Data: 2021-08-14 16:50:18
 --------------------------------
 
 Nome: EasyCon
-Nota: 3.1341257
-Total de Avaliações: 5846
-Total de Comentários: 2930
+Nota: 3.118123
+Total de Avaliações: 6099
+Total de Comentários: 3049
 Desenvolvedor: Wuhan CARBIT Information Co.,Ltd
-Versão Atual: 2.9.2
+Versão Atual: 3.0.0
 Lançamento: 18 de out. de 2017
-Data Ultima Atualização: April 12, 2021
+Data Ultima Atualização: September 16, 2021
 Hospedagem: China
 Downloads Totais: 1.000.000+
 Comentários: 
 
-Comentário: Instalei e não consigo conectar com o meu radio 2 din 7 " para bmw
+Comentário: Ótimo
+Nota: 5
+Data: 2021-09-28 09:17:00
+--------------------------------
+Comentário: Pessimo
 Nota: 1
-Data: 2021-08-15 15:51:30
+Data: 2021-09-27 20:35:43
 --------------------------------
-Comentário: Não conecta via USB mais no.meu Samsung Galaxy S10 lite....
+Comentário: Simplesmente não baixa.....
 Nota: 1
-Data: 2021-08-13 19:05:53
+Data: 2021-09-24 19:41:17
 --------------------------------
-Comentário: Incompatibilidade com Android 11! Atualizem!!!
+Comentário: Muito bom
+Nota: 4
+Data: 2021-09-22 08:38:54
+--------------------------------
+Comentário: Show
+Nota: 5
+Data: 2021-09-19 09:49:27
+--------------------------------
+Comentário: Que midia horrível paguei carro na concessionária da Nissan e não presta horrível me arrependi tive fiat Cronos midia dele e maravilhosa com espelhamento dos apps sem sem espelhamento metade da tela como este midia agora está desatualizado e não consigo mais conectar
 Nota: 1
-Data: 2021-08-11 18:10:21
+Data: 2021-09-17 18:22:49
 --------------------------------
-Comentário: Não funciona para Android 11
-Nota: 1
-Data: 2021-08-10 11:18:36
---------------------------------
-Comentário: Funciona, até à última atualização, agora não é mais compatível com pelo menos a minha multimídia Android,infelizmente nem sei o que fazer,é um aplicativo que eu usava todo santo dia e agora procuro outros meios de espelhamento e não consigo
-Nota: 3
-Data: 2021-07-29 16:51:38
---------------------------------
-Comentário: Instável, conexão cai toda hora
-Nota: 1
-Data: 2021-07-27 19:47:41
---------------------------------
-Comentário: Não consegui usar no meu ford Ecosport até hoje, conecto o cabo baixei esse programa pelo qrcode scaneado pelo próprio carro e nada. Não sai da parte de carregar o app no painel do carro.
-Nota: 1
-Data: 2021-07-23 21:37:13
---------------------------------
-Comentário: Aplicativo absurdamente instável. Perde a conexão a cada 30 segundos. Seja com cabo, seja no wifi.
+Comentário: Não funciona com Android 11
 Nota: 2
-Data: 2021-07-18 08:09:49
+Data: 2021-09-10 16:01:58
 --------------------------------
-Comentário: Minha tela fica borrada quando conector ele
+Comentário: Meu n funciona fica mostrando uma mensagem Não registrada entre em contato com o cliente
 Nota: 1
-Data: 2021-07-11 14:19:40
+Data: 2021-09-04 15:08:10
 --------------------------------
-Comentário: Não funciona!!!
+Comentário: Nada prático A proposta é boa, interface amigável. Mas pede pra autorizar as permissões toda vez que eu inicio o app.
+Nota: 2
+Data: 2021-08-31 21:59:23
+--------------------------------
+Comentário: Pessimo
 Nota: 1
-Data: 2021-07-10 15:37:09
+Data: 2021-08-30 20:49:00
 --------------------------------
 
 Nome: Giga Admin
-Nota: 3.861386
-Total de Avaliações: 582
-Total de Comentários: 314
+Nota: 3.821782
+Total de Avaliações: 628
+Total de Comentários: 338
 Desenvolvedor: Giga Security
 Versão Atual: 1.3.5
 Lançamento: 28 de dez. de 2018
@@ -1125,45 +1157,45 @@ Hospedagem: Brasil
 Downloads Totais: 100.000+
 Comentários: 
 
-Comentário: muito bom esse GIGA Adimin recomendo a toda gente, é seguro.
+Comentário: Gosto do serviço muito bom.
+Nota: 3
+Data: 2021-10-03 12:37:19
+--------------------------------
+Comentário: Deveriam deixar logo quando abre as imagens em HD do que em SD, péssimo a imagem SD. Utilizo de outras marcas de DVR e as imagens não são tão ruim como do giga que estou testando.
+Nota: 3
+Data: 2021-10-01 11:58:04
+--------------------------------
+Comentário: Ótimos
 Nota: 5
-Data: 2021-08-18 12:24:07
+Data: 2021-09-30 23:47:25
 --------------------------------
-Comentário: Muito ruim, difícil se usar, não te dá opção em algumas telas de colocar o idioma em português, realmente precisa reformular essa ideia, ainda mais as empresas que fazem uso, não tratam o cliente bem, depois que fazem a instalação das câmeras, péssimo mesmo.
-Nota: 1
-Data: 2021-08-17 18:29:00
+Comentário: Bom
+Nota: 5
+Data: 2021-09-29 05:37:31
 --------------------------------
-Comentário: O aplicativo tem muitas falhas: Ao gravar as imagens congelam,nas gravações remotas tbem congelam. Não captam tudo, de repete para. Não tem opção de compartilhar vídeos gravados. São ferrentas importantes para quem utiliza para grande fluxo.
-Nota: 2
-Data: 2021-08-16 13:40:14
+Comentário: Este é melhor que outro gostei com HD
+Nota: 5
+Data: 2021-09-28 17:18:48
 --------------------------------
-Comentário: Parou de funcionar. Não abrem as câmeras
-Nota: 1
-Data: 2021-08-15 01:50:29
+Comentário: Sein porsei tô bom demais 👍👍
+Nota: 5
+Data: 2021-09-28 15:34:11
 --------------------------------
-Comentário: Não sei Q é pior a Bomba do DVR GIGA ou esse APP
-Nota: 2
-Data: 2021-08-13 10:00:22
---------------------------------
-Comentário: Aplicativo estava funcionando perfeitamente eu daria nota 5, de repente do nada parou de exibir as imagens mesmo mostrando que as câmeras está on line...... Colocar minha senha as câmeras abrem porém sem imagens......
-Nota: 2
-Data: 2021-08-10 02:02:51
---------------------------------
-Comentário: Ta horrível não quer nem abrir
-Nota: 1
-Data: 2021-08-09 14:18:33
---------------------------------
-Comentário: Exibição em tempo real não funciona em qualidade HD
-Nota: 1
-Data: 2021-08-06 11:39:16
---------------------------------
-Comentário: O aplicativo é bom,mais depois da atualização ele fecha sozinho,trava,e quando um aparelho entra no app o outro não consegue acessar.entao por enquanto irei da só 4 estrela
+Comentário: Aplicativo muito bom, porem tem momentos que mesmo com todas as conexões está funcionando não consigo visualizar.
 Nota: 4
-Data: 2021-08-03 06:35:27
+Data: 2021-09-26 12:47:41
 --------------------------------
-Comentário: ótimo
+Comentário: Aplicativo sensacional
 Nota: 5
-Data: 2021-07-31 09:24:36
+Data: 2021-09-26 10:11:17
+--------------------------------
+Comentário: Excelente aplicativo
+Nota: 5
+Data: 2021-09-26 10:09:48
+--------------------------------
+Comentário: Após a última atualização o app ficou ainda mais lento. Aguardo contato. Obrigado.
+Nota: 1
+Data: 2021-09-25 20:30:59
 --------------------------------
 
 END
