@@ -1,5 +1,6 @@
 import os
 import json
+import csv
 from datetime import date
 import time
 from google_play_scraper import app, reviews, Sort
@@ -8,7 +9,11 @@ from urllib import request
 class MainClass:
 
     appData = []
+    header = ["Nome", "Nota", "Total de Avaliações", "Total de Comentários", "Desenvolvedor",
+              "Versão Atual", "Lançamento", "Data Ultima Atualização", "Hospedagem", "Downloads Totais", "Comentários"]
+    csv_data = []
     log_path = ""
+    csv_path = ""
     playstore_path = "https://play.google.com/store/apps/details?id="
 
     def __init__(self):
@@ -32,21 +37,30 @@ class MainClass:
                     country='br',  # defaults to 'us'
                 )
 
-                self.appData.append({'Nome': appl['name'],
-                                     'Downloads Totais': result['installs'],
-                                     'Nota': result['score'],
-                                     'Total de Avaliações': result['ratings'],
-                                     'Total de Comentários': result['reviews'],
-                                     'Desenvolvedor': result['developer'],
-                                     'Versão Atual': result['version'],
-                                     'Lançamento': result['released'],
-                                     'Data Ultima Atualização' : self.get_last_update_app(appl),
-                                     'Hospedagem' :  self.get_host(result['developer']),
+                self.appData.append({'Nome': str(appl['name']),
+                                     'Downloads Totais': str(result['installs']),
+                                     'Nota': str(result['score']),
+                                     'Total de Avaliações': str(result['ratings']),
+                                     'Total de Comentários': str(result['reviews']),
+                                     'Desenvolvedor': str(result['developer']),
+                                     'Versão Atual': str(result['version']),
+                                     'Lançamento': str(result['released']),
+                                     'Data Ultima Atualização' : str(self.get_last_update_app(appl)),
+                                     'Hospedagem' :  str(self.get_host(result['developer'])),
                                      'Comentários' : self.get_comments(appl['url'])})
 
             except Exception as e:
-                self.appData.append({"Nome": appl['name'],
-                                    "Status": "Offline"})
+                self.appData.append({'Nome': str(appl['name']),
+                                     'Downloads Totais': "Offline",
+                                     'Nota': "Offline",
+                                     'Total de Avaliações': "Offline",
+                                     'Total de Comentários': "Offline",
+                                     'Desenvolvedor': "Offline",
+                                     'Versão Atual': "Offline",
+                                     'Lançamento': "Offline",
+                                     'Data Ultima Atualização' : "Offline",
+                                     'Hospedagem' :  "Offline",
+                                     'Comentários' : "Offline"})
 
             count = count + 1
 
@@ -77,7 +91,35 @@ class MainClass:
 
         file.close()
 
-        #self.read_json_data()
+    def create_csv_file(self, app_name):
+        self.csv_path = "log/" + str(date.today()) + " " + str(time.time()) + " " + app_name + ".csv"
+
+        file = open(self.csv_path, "x", encoding="utf8")
+
+        file.close()
+
+    def write_csv_file(self):
+        file = open(self.csv_path, "w", encoding="utf8", newline='')
+        writer = csv.DictWriter(file, self.header)
+
+        writer.writeheader()
+
+        writer.writerows(self.appData)
+
+        '''for appl in self.appData:
+            self.csv_data.append([str(appl['Nome']),
+                                  str(appl['Nota']),
+                                  str(appl['Total de Avaliações']),
+                                  str(appl['Total de Comentários']),
+                                  str(appl['Desenvolvedor']),
+                                  str(appl['Versão Atual']),
+                                  str(appl['Lançamento']),
+                                  str(appl['Data Ultima Atualização']),
+                                  str(appl['Hospedagem']),
+                                  str(appl['Downloads Totais'])])'''
+
+        file.close()
+
 
     def write_log_file(self):
         file = open(self.log_path, "w", encoding="utf8")
@@ -85,22 +127,30 @@ class MainClass:
 
         for appl in self.appData:
             file.write("\n")
-            file.write("Nome: " + str(appl['Nome']) + "\n")
-            file.write("Nota: " + str(appl['Nota']) + "\n")
-            file.write("Total de Avaliações: " + str(appl['Total de Avaliações']) + "\n")
-            file.write("Total de Comentários: " + str(appl['Total de Comentários']) + "\n")
-            file.write("Desenvolvedor: " + str(appl['Desenvolvedor']) + "\n")
-            file.write("Versão Atual: " + str(appl['Versão Atual']) + "\n")
-            file.write("Lançamento: " + str(appl['Lançamento']) + "\n")
-            file.write("Data Ultima Atualização: " + str(appl['Data Ultima Atualização']) + "\n")
-            file.write("Hospedagem: " + str(appl['Hospedagem']) + "\n")
-            file.write("Downloads Totais: " + str(appl['Downloads Totais']) + "\n")
+            file.write("Nome: " + appl['Nome'] + "\n")
+            file.write("Nota: " + appl['Nota'] + "\n")
+            file.write("Total de Avaliações: " + appl['Total de Avaliações'] + "\n")
+            file.write("Total de Comentários: " + appl['Total de Comentários'] + "\n")
+            file.write("Desenvolvedor: " + appl['Desenvolvedor'] + "\n")
+            file.write("Versão Atual: " + appl['Versão Atual'] + "\n")
+            file.write("Lançamento: " + appl['Lançamento'] + "\n")
+            file.write("Data Ultima Atualização: " + appl['Data Ultima Atualização'] + "\n")
+            file.write("Hospedagem: " + appl['Hospedagem'] + "\n")
+            file.write("Downloads Totais: " + appl['Downloads Totais'] + "\n")
             file.write("Comentários: \n\n" )
-            for com in appl['Comentários']:
+            try:
+                for com in appl['Comentários']:
+                    file.write("Comentário: " + str(com['Comentario']) + "\n")
+                    file.write("Nota: " + str(com['Nota']) + "\n")
+                    file.write("Data: " + str(com['Data']) + "\n")
+            except Exception as e:
+                file.write("Offline" + "\n")
+            '''for com in appl['Comentários']:
                 file.write("Comentário: " + str(com['Comentario']) + "\n")
                 file.write("Nota: " + str(com['Nota']) + "\n")
-                file.write("Data: " + str(com['Data']) + "\n")
-                file.write("--------------------------------" + "\n")
+                file.write("Data: " + str(com['Data']) + "\n")'''
+
+            file.write("--------------------------------" + "\n")
         file.write("\n")
         file.write("END")
         file.close()
@@ -208,7 +258,9 @@ class MainClass:
 
             if option == "1":
                 self.create_log_file(app_name)
+                self.create_csv_file(app_name)
                 self.write_log_file()
+                self.write_csv_file()
                 print("Arquivo criado, acesse a pasta log/ para visualizá-lo\n")
                 os.system("pause")
                 os.system("cls||clear")
@@ -232,11 +284,14 @@ class MainClass:
             print("Hospedagem: " + str(appl['Hospedagem']) + "\n")
             print("Downloads Totais: " + str(appl['Downloads Totais']) + "\n")
             print("Comentários: \n\n" )
-            for com in appl['Comentários']:
-                print("Comentário: " + str(com['Comentario']) + "\n")
-                print("Nota: " + str(com['Nota']) + "\n")
-                print("Data: " + str(com['Data']) + "\n")
-                print("--------------------------------" + "\n")
+            try:
+                for com in appl['Comentários']:
+                    print("Comentário: " + str(com['Comentario']) + "\n")
+                    print("Nota: " + str(com['Nota']) + "\n")
+                    print("Data: " + str(com['Data']) + "\n")
+                    print("--------------------------------" + "\n")
+            except Exception as e:
+                print("Offline")
         print("\n")
         print("END")
 
