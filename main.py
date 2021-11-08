@@ -39,7 +39,7 @@ class MainClass:
 
                 self.appData.append({'Nome': str(appl['name']),
                                      'Downloads Totais': str(result['installs']),
-                                     'Nota': str(result['score']),
+                                     'Nota': str(self.get_review_from_app(appl)),
                                      'Total de Avaliações': str(result['ratings']),
                                      'Total de Comentários': str(result['reviews']),
                                      'Desenvolvedor': str(result['developer']),
@@ -75,6 +75,17 @@ class MainClass:
             dateDirty = html[stringend:stringend+100]
             date = html[stringend:stringend+dateDirty.find('<')]
             return date
+        except Exception as e:
+            return "Offline"
+
+    def get_review_from_app(self, url):
+        try:
+            html = str(request.urlopen(self.playstore_path + url['url']).read())
+            tmpline = '<div class="BHMmbe"'
+            stringstart = html.find(tmpline)
+            stringend = stringstart + len(tmpline)
+            review = html[stringend+48:stringend+51]
+            return review
         except Exception as e:
             return "Offline"
 
