@@ -31,11 +31,9 @@ class MainClass:
         self.appData = []
         for appl in apps:
             try:
-                result = app(
-                    appl['url'],
-                    lang='pt',  # defaults to 'en'
-                    country='br',  # defaults to 'us'
-                )
+                result = app(appl['url'],lang='en', country='us')
+
+                print(result)
 
                 self.appData.append({'Nome': str(appl['name']),
                                      'Downloads Totais': str(result['installs']),
@@ -117,18 +115,6 @@ class MainClass:
 
         writer.writerows(self.appData)
 
-        '''for appl in self.appData:
-            self.csv_data.append([str(appl['Nome']),
-                                  str(appl['Nota']),
-                                  str(appl['Total de Avaliações']),
-                                  str(appl['Total de Comentários']),
-                                  str(appl['Desenvolvedor']),
-                                  str(appl['Versão Atual']),
-                                  str(appl['Lançamento']),
-                                  str(appl['Data Ultima Atualização']),
-                                  str(appl['Hospedagem']),
-                                  str(appl['Downloads Totais'])])'''
-
         file.close()
 
 
@@ -181,7 +167,7 @@ class MainClass:
                     lang='pt',  # defaults to 'en'
                     country='br',  # defaults to 'us'
                     sort=Sort.NEWEST,  # defaults to Sort.MOST_RELEVANT
-                    count=10,  # defaults to 100
+                    count=5,  # defaults to 100
                     filter_score_with=None  # defaults to None(means all score)
                 )
 
@@ -213,7 +199,6 @@ class MainClass:
 
             if option == "1":
                 os.system("cls||clear")
-                #self.create_log_file("all")
                 self.set_app_data(self.read_json_data())
                 self.get_data()
                 self.save_data_menu("All")

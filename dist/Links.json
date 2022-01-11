@@ -23,4 +23,6 @@
          {"url": "com.ihunuo.fyd.newshark", "name": "Drone New Shark"},
          {"url": "com.vison.macrochip.falcon.drone", "name": "FalconDrone"},
          {"url": "net.easyconn.carman.wws", "name": "EasyCon"},
-         {"url": "com.mobile.myeye.gigaadmin", "name": "Giga Admin"}]}
+         {"url": "com.mobile.myeye.gigaadmin", "name": "Giga Admin"},
+         {"url": "com.hinteen.multilaser", "name": "SW2 Plus"},
+         {"url": "br.inatel.icc.gigasecurity.gigamonitor", "name": "Giga Monitor"}]}
