@@ -31,7 +31,7 @@ class MainClass:
         self.appData = []
         for appl in apps:
             try:
-                result = app(appl['url'],lang='en', country='us')
+                result = app(appl['url'],lang='pt', country='br')
 
                 #print(result)
 
