@@ -33,8 +33,6 @@ class MainClass:
             try:
                 result = app(appl['url'],lang='pt', country='br')
 
-                print(result)
-
                 self.appData.append({'Nome': str(appl['name']),
                                      'Downloads Totais': str(result['installs']),
                                      'Nota': str(round(result['score'], 1)),
