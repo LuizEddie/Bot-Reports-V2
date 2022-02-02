@@ -35,7 +35,7 @@ class MainClass:
 
                 self.appData.append({'Nome': str(appl['name']),
                                      'Downloads Totais': str(result['installs']),
-                                     'Nota': str(round(result['score'], 1)),
+                                     'Nota': str(round(result['score'], 1)).replace(".",","),
                                      'Total de Avaliações': str(result['ratings']),
                                      'Total de Comentários': str(result['reviews']),
                                      'Desenvolvedor': str(result['developer']),
@@ -64,7 +64,7 @@ class MainClass:
 
     def get_last_update_app(self, url):
         try:
-            html = str(request.urlopen(self.playstore_path.format(url['url'])).read())
+            html = str(request.urlopen(self.playstore_path.format(url['url'])).read().decode('utf-8'))
             tmpline = '<div class="BgcNfc">Atualizada</div><span class="htlgb"><div class="IQ1z0d"><span class="htlgb">'
             stringstart = html.find(tmpline)
             stringend = stringstart + len(tmpline)
