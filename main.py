@@ -14,7 +14,7 @@ class MainClass:
     csv_data = []
     log_path = ""
     csv_path = ""
-    playstore_path = "https://play.google.com/store/apps/details?id="
+    playstore_path = "https://play.google.com/store/apps/details?id={}&hl=pt_BR&gl=BR"
 
     def __init__(self):
         pass
@@ -33,17 +33,17 @@ class MainClass:
             try:
                 result = app(appl['url'],lang='pt', country='br')
 
-                #print(result)
+                print(result)
 
                 self.appData.append({'Nome': str(appl['name']),
                                      'Downloads Totais': str(result['installs']),
-                                     'Nota': str(self.get_review_from_app(appl)),
+                                     'Nota': str(round(result['score'], 1)),
                                      'Total de Avaliações': str(result['ratings']),
                                      'Total de Comentários': str(result['reviews']),
                                      'Desenvolvedor': str(result['developer']),
                                      'Versão Atual': str(result['version']),
-                                     'Lançamento': str(result['released']),
-                                     'Data Ultima Atualização' : str(self.get_last_update_app(appl)),
+                                     'Lançamento': str(self.treat_date(result['released'])),
+                                     'Data Ultima Atualização' : str(self.treat_date(self.get_last_update_app(appl))),
                                      'Hospedagem' :  str(self.get_host(result['developer'])),
                                      'Comentários' : self.get_comments(appl['url'])})
 
@@ -66,8 +66,8 @@ class MainClass:
 
     def get_last_update_app(self, url):
         try:
-            html = str(request.urlopen(self.playstore_path + url['url']).read())
-            tmpline = '<div class="BgcNfc">Updated</div><span class="htlgb"><div class="IQ1z0d"><span class="htlgb">'
+            html = str(request.urlopen(self.playstore_path.format(url['url'])).read())
+            tmpline = '<div class="BgcNfc">Atualizada</div><span class="htlgb"><div class="IQ1z0d"><span class="htlgb">'
             stringstart = html.find(tmpline)
             stringend = stringstart + len(tmpline)
             dateDirty = html[stringend:stringend+100]
@@ -76,9 +76,13 @@ class MainClass:
         except Exception as e:
             return "Offline"
 
+    def treat_date(self, date_to_treat):
+        date = date_to_treat.replace(" de ", " ")
+        return date
+
     def get_review_from_app(self, url):
         try:
-            html = str(request.urlopen(self.playstore_path + url['url']).read())
+            html = str(request.urlopen(self.playstore_path.format(url['url'])).read())
             tmpline = '<div class="BHMmbe"'
             stringstart = html.find(tmpline)
             stringend = stringstart + len(tmpline)
