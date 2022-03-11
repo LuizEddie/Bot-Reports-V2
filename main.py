@@ -46,6 +46,7 @@ class MainClass:
                                      'Comentários' : self.get_comments(appl['url'])})
 
             except Exception as e:
+                print(e)
                 self.appData.append({'Nome': str(appl['name']),
                                      'Downloads Totais': "Offline",
                                      'Nota': "Offline",
